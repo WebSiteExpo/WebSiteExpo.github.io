@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /wp-admin
+Disallow: /wp-content
+Disallow: /wp-includes
+
+Disallow: /category/*
+Disallow: /author/*
+Disallow: /tips/*
+
+Disallow: /en/category/*
+Disallow: /en/author/*
+Disallow: /en/tips-en/*
+
+Disallow: /fr/*
+Disallow: /it/*
